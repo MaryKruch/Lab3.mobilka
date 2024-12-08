@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3.mobilka</string>
+    <string name="k2">Введите второй катет</string>
+    <string name="k1">Введите первый катет</string>
+    <string name="gip">Вычислить гипотенузу</string>
+    <string name="res">Результат</string>
+</resources>
